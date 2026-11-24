@@ -1,0 +1,21 @@
+{
+  "id": "/",
+  "name": "TRAP VANI AI — Estúdio de Produção Musical",
+  "short_name": "TRAP VANI AI",
+  "description": "Estúdio de produção musical com gravação, beatbox, instrumentos e mistura.",
+  "lang": "pt-AO",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0A0B0E",
+  "theme_color": "#0A0B0E",
+  "icons": [
+    {
+      "src": "/trap-vani-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

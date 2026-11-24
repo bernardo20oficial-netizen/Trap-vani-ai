@@ -1,0 +1,10 @@
+{
+  "name": "TRAP VANI AI",
+  "description": "Estúdio profissional de produção de música TRAP com gravação de voz, autotune preservando timbre, biblioteca expansível de 808, conversão de beatbox vocal em bateria e produção assistida por IA.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
